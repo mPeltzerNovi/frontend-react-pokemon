@@ -10,7 +10,7 @@ function App() {
     const [status, setStatus] = useState('loading')
     const [pagina, setPagina] = useState(0);
 
-    //console.log("Pokemons", pokemons);
+
 
 
 
